@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Fabio 
 
-<!--
-**FabioFalcioni/FabioFalcioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧪 Research Scientist in Quantum Chemistry & Machine Learning
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am passionate about advancing computational science with a special focus on quantum chemistry and machine learning. My work bridges the gap between physical modelling and data-driven approaches, aiming to make sense of complex molecular systems and enable new discoveries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Skills
+
+- **Programming Languages:** Python (main), experience with Bash and some Fortran, C++.
+- **Frameworks:** JAX, PyTorch
+- **Expertise:**  
+  - Machine Learning Potentials (MLPs)
+  - Neural Network Wavefunctions
+  - Quantum Chemistry Simulations (DFT and classical MD)
+- **Interests:**  
+  - Computational Geometry
+  - 3D Graphics & Visualization
+
+---
+
+### 🌱 Current Interests
+
+- Developing ML models for chemical and physical systems
+- Exploring neural-network-based representations of quantum states
+- Applying computational geometry to scientific visualisation and analysis
+
+---
+
+### 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/fabio-falcioni-computational-chemist/)
+
+---
+
+
+Thanks for visiting! If you share similar interests or want to collaborate, feel free to reach out or open an issue/discussion on one of my projects.
